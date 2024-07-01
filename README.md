@@ -5,4 +5,10 @@ Analyzing a private companies salaries performance
 
 ---
 
-jhghjghjmnh
+### Objective 
+
+providing a dashboard to monitor the employees salaries
+
+### Preparation 
+
+The data was recieved as a CSV file           
